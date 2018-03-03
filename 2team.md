@@ -25,5 +25,11 @@ permalink: /team/
 [Curriculum Vitae]({{ "/team/gaa_cv" | relative_url }}) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Armeev+GA%5BAuthor%5D) | E-mail: [armeev@intbio.org](mailto:armeev@intbio.org) 
 </td>
 </tr>
+<tr>
+<td markdown="span"> <img src="{{ "/assets/photo_kas.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Kniazeva Anastasiia - BSс student</b> <br> Anastasiia is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/cv/CV_Kniazeva_Anastasiia.pdf" | relative_url }}) | E-mail: [kniazeva.anastasiia.2015@post.bio.msu.ru](mailto:pospelova.yunona.2015@post.bio.msu.ru) 
+</td>
+</tr>
 </tbody>
 </table>
