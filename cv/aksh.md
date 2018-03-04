@@ -60,8 +60,7 @@ permalink: /alexey_shaytan
 		<td>
 			<table>
 				<tr><td align="right">E-mail:</td><td><a href="mailto:shaytan_ak@mail.bio.msu.ru">shaytan_ak@mail.bio.msu.ru</a></td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+				<tr><td align="right">Tel/Fax:</td><td>+7 495 939 57 38</td></tr>
 				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
 				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
 			</table>
@@ -109,7 +108,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 				<tr class="rowu"><td align="center">2007</td><td align="center"><b>Master of Science degree</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Physics, Chair of Physics of Polymers and Crystals, diploma with excellence (GPA 5.0, max 5.0), Master Thesis “Study of hydration and adsorption of amino acid side chains via MD simulations”; Advisors Prof. A.R. Khokhlov, Prof. V.A. Ivanov. Selected as the best thesis at the department.</td></tr>
 				<tr class="rowu"><td align="center">2001--2007</td><td align="center"><b>Student</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Physics</td></tr>
 				<tr class="rowu"><td align="center">2002--2005</td><td align="center"><b></b></td><td>Russian-German Institute of Science and Culture at MSU</td></tr>
-				<tr><td align="center">1991--2001</td><td align="center"><b>School student</b></td><td>Moscow Comprehensive School No. 1260 with advanced studies of English language. School-leaving certificate with golden medal (GPA 5.0, max 5.0)</td></tr>
+				<tr><td align="center">1991--2001</td><td align="center"><b>School student</b></td><td>Moscow Comprehensive School No. 1260 with advanced studies of English language. School-leaving certificate with gold medal (GPA 5.0, max 5.0)</td></tr>
 			</table>
 		</td>
 	</tr>
@@ -145,8 +144,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 		<td>
 			<table>
 				<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
+				<tr><td align="right">Tel/Fax:</td><td>+7 495 939 57 38</td></tr>
 				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
 				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
 			</table>
@@ -184,7 +182,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 			<col width="5%" />
 			<col width="85%" />
 			</colgroup>
-				<tr><td align="center" colspan="2"><a href="https://goo.gl/6W1QKS" style="background-color: #b7f3b7;">GoogleScholar</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a%5Bauth%5D" style="background-color: #b7f3ee;"> Pubmed</a> <a href="https://paperpile.com/shared/ti7t8P" style="background-color: #ff97ec">Complete list of publications with PDFs</a></td></tr>
+				<tr><td align="center" colspan="2"><a href="https://goo.gl/6W1QKS" style="background-color: #b7f3b7;">GoogleScholar</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a%5Bauth%5D" style="background-color: #b7f3ee;"> Pubmed</a> <a href="https://paperpile.com/shared/6HnKBc" style="background-color: #ff97ec">Complete list of publications with PDFs</a></td></tr>
 			<tr><td align="center" colspan="2"><b>Selected papers</b></td></tr>
 			<!-- https://docs.google.com/document/d/e/2PACX-1vRTwm9QaWFJeoQ1PuP7I9X4rAyMig-QG2KzqFKglMvmQlAXuw0mbjdQYqpUFsFhutiQw_8C549aQA-g/pub -->
 			<tr class="rowu"><td>2017</td><td align="left">Xiao H, Wang F*, Wisniewski J*, <u>Shaytan AK*</u>, Ghirlando R, FitzGerald PC, et al. Molecular basis of CENP-C association with the CENP-A nucleosome at yeast centromeres. <b>Genes Dev.</b> 2017; doi:<a href="http://dx.doi.org/10.1101/gad.304782.117">10.1101/gad.304782.117</a>; *-equal contribution</td></tr>
